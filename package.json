@@ -1,0 +1,11 @@
+{
+  "name": "serverless-single-page-app-plugin-v2",
+  "version": "1.0.0",
+  "description": "A plugin to simplify deploying Single Page Application using S3 and CloudFront",
+  "author": "Franco Berton",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.800.0",
+    "mime-types": "^2.1.27"
+  }
+}
